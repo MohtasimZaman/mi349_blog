@@ -19,8 +19,10 @@ body{
 }
 
 .nav-icons {
-    margin: 0 10px;
-} 
+    margin: 0 10px; 
+    display: flex;
+    align-items: center; 
+}
 
 .nav-icons a {
     text-decoration: none;
