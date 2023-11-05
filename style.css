@@ -32,6 +32,24 @@ header {
     max-width: 80vw;
 }
 
+.aboutme {
+    margin: auto;
+    padding-top: 3vh;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    justify-content: center;
+    
+}
+  
+
+.aboutme-details {
+    padding: 1rem;
+    overflow-y: scroll;
+    
+}
+
 
 .navbar {
     height: 5vh;
