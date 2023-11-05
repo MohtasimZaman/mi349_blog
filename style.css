@@ -62,6 +62,9 @@ header {
 }
 
 .navbar {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
     height: 5vh;
     width: 100%;
     display: flex;
@@ -85,6 +88,10 @@ header {
 
 .nav-icons a:hover {
     opacity: 0.3;
+}
+
+#blog{
+
 }
 
 
