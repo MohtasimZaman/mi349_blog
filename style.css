@@ -19,7 +19,7 @@ body{
 }
 
 .nav-icons {
-    margin: 0 10px; 
+    margin: 0 5px; 
     display: flex;
     align-items: center; 
 }
@@ -27,7 +27,7 @@ body{
 .nav-icons a {
     text-decoration: none;
     color: white;
-    padding: 5px 10px; 
+    padding: 5px 5px; 
 }
 
 
