@@ -132,3 +132,36 @@ header {
     display: block;
     margin: auto; 
 }
+
+.tables {
+    width: 60%; 
+    margin: 0 auto; 
+    border-collapse: collapse; 
+    border: 1px solid #000; 
+}
+
+.tables th{
+    padding: 8px;
+    text-align: center;
+    border: 1px solid #000; 
+}
+
+.tables td{
+    padding: 8px;
+    text-align: center;
+    border: 1px solid #000; 
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+
+form {
+    text-align: center; 
+    border: 1px solid #ccc; 
+    padding: 20px; 
+}
+
