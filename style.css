@@ -7,7 +7,7 @@ body{
     margin: 35px;
 }
 
-.navbar {
+/* .navbar {
     height: 5vh;
     width: 100vw;
     display: flex;
@@ -30,4 +30,4 @@ body{
 
 .nav-icons a:hover {
     opacity: 0.3;
-}
+} */
