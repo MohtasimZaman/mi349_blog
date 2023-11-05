@@ -98,6 +98,8 @@ header {
 .infiniti{
     max-height: 50vh;
     max-width: 80vw;
+    position: center;
+    border-radius: 20%;
 }
 
 
