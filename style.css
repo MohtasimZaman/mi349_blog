@@ -64,7 +64,9 @@ header {
 .navbar {
     height: 5vh;
     width: 100%;
-    display: flex;
+    position: sticky; 
+    top: 0;
+    z-index: 1000; 
     justify-content: space-between;
     align-items: center;
     background-color: rgb(51, 51, 51);
