@@ -95,11 +95,21 @@ header {
     padding: 20px; 
 }
 
-.infiniti{
+.infiniti-container {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+    background-color: #f5f5f5; 
+
+}
+
+/* For the image */
+.infiniti {
     max-height: 50vh;
     max-width: 80vw;
-    text-align: center;
-    border-radius: 20%;
+    border-radius: 15%;
+ 
 }
 
 
