@@ -96,12 +96,20 @@ header {
 }
 
 
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
 .infiniti {
     max-height: 50vh;
     max-width: 80vw;
     border-radius: 15%;
     padding: 10px;
-    text-align: center;
+    display: block;
+    margin: auto; 
 }
 
 
