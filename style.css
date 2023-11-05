@@ -19,7 +19,7 @@ body{
 }
 
 .nav-icons {
-    flex: 1;
+    margin: 0 10px; 
     display: flex;
     align-items: center; 
 }
