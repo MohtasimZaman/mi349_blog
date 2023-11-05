@@ -95,6 +95,11 @@ header {
     padding: 20px; 
 }
 
+.infiniti{
+    max-height: 50vh;
+    max-width: 80vw;
+}
+
 
 
 #blog2{
