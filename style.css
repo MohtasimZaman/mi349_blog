@@ -8,21 +8,24 @@ body{
 }
 
 .navbar {
-    height: 10vh;
+    height: 5vh;
     width: 100vw;
     display: flex;
-  
+    justify-content: space-between;
     align-items: center;
     background-color: rgb(51, 51, 51);
 }
 
-.nav-icons a {
-    margin-left: 1rem;  
-    text-decoration: none;
-    color: rgb(255, 255, 255);
-    transition: opacity 0.3; 
-    font-weight: bold; 
+.nav-icons {
+    margin: 0 10px; 
 }
+
+.nav-icons a {
+    text-decoration: none;
+    color: white;
+    padding: 5px 10px; 
+}
+
 
 
 .nav-icons a:hover {
