@@ -48,6 +48,9 @@ header {
     padding: 1rem;
     overflow-y: scroll;
     
+    max-width: 600px; 
+    margin-bottom: 20px;
+    
 }
 
 
