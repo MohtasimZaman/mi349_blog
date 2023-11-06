@@ -20,7 +20,12 @@ header {
     margin: 10px 0;
   }
   
-  p.header {
+  p{
+    font-size: 1.2em;
+    margin: 10px 0;
+  }
+
+  p{
     font-size: 1.2em;
     margin: 10px 0;
   }
